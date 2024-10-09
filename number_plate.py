@@ -1,6 +1,5 @@
 import cv2
 
-
 harcascade = "E:\PROJECTS\Computer Vision( CV) Project\Car Number Plate Detection\model\haarcascade_russian_plate_number.xml"
 cap = cv2.VideoCapture(0) # Capture webcam
 
